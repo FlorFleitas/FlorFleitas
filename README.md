@@ -5,7 +5,8 @@
 </div>
 
 ## About me :mortar_board:
-I am a student, currently studying in Vellore Institute of Technology. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+I am a student, currently studying at Soy Henry Academy. I'm from Argentina and I'm a Full Stack Web Developer!
+I enjoy learning new things and overcoming myself in the face of every challenge that arises. 🧠
 
 ## What I know :computer:
 - **Competitive Programming**
