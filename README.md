@@ -5,18 +5,18 @@
 </div>
 
 ## About me :mortar_board:
-I am a student, currently studying at Soy Henry Academy. I'm from Argentina and I'm a Full Stack Web Developer!
+I am a student, currently studying at Soy Henry Academy. I live in Uruguay and I'm a Full Stack Web Developer!
 I enjoy learning new things and overcoming myself in the face of every challenge that arises. 🧠
 
 ## What I know :computer:
-- **Competitive Programming**
+- **Favorite Language**
 	- JavaScript ❤️
 	
 	
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
-	- React with Redux :electron:
+	- React with Redux 
 	- React Native
 
 
