@@ -31,7 +31,7 @@ I enjoy learning new things and overcoming myself in the face of every challenge
 
 
 ## What I want to do next :thinking:
-- At least delve into AI and ML.
+- Keep learning and to find an environment where I can grow and develope my programming skills!
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/sarthakbh321?label=Follow&style=social)](https://github.com/FlorFleitas)
