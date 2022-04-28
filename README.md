@@ -17,8 +17,6 @@ I enjoy learning new things and overcoming myself in the face of every challenge
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
 	- React with Redux 
-	- React Native
-
 
 - **Backend Development**
 	- Express js :white_check_mark:
