@@ -27,7 +27,7 @@ I enjoy learning new things and overcoming myself in the face of every challenge
 	- Sequelize
 	- PostreSQL
 
-- **DataBase**
+- **Design**
 	- Figma
 	- Illustrator
 
