@@ -5,7 +5,7 @@
 </div>
 
 ## About me :mortar_board:
-I am a student, currently studying at Soy Henry Academy. I live in Uruguay and I'm a Full Stack Web Developer!
+I am a Full Stack Web Developer graduated from Soy Henry Academy. I'm currently living in Uruguay!
 I enjoy learning new things and overcoming myself in the face of every challenge that arises. 🧠
 
 ## What I know :computer:
