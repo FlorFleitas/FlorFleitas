@@ -27,6 +27,10 @@ I enjoy learning new things and overcoming myself in the face of every challenge
 	- Sequelize
 	- PostreSQL
 
+- **Design**
+        - Figma
+        - Illustrator 
+
 
 ## What I want to do next :thinking:
 - Keep learning and to find an environment where I can grow and develope my programming skills!
